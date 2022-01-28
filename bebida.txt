@@ -1,1 +1,6 @@
 1. Agua
+2. Agua con gas
+3. Cocacola
+4. Fanta de naranja y limón
+5. Cerveza Alhambra y Mahou
+6. Sprite
